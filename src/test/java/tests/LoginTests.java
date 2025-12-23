@@ -23,4 +23,5 @@ public class LoginTests extends BaseClass {
         lpg.enterUsername("lkdasjfjad");
         lpg.enterPassword("akjdsfjdsa");
         lpg.clickOnLoginButton();
+        System.out.println("Hello This is selenium project");
     }}
